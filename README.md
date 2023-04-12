@@ -1,1 +1,1 @@
-# mycalc
+# pip tmp package
